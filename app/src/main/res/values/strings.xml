@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LayoutConversionProject</string>
+    <string name="scan_qr_code" translatable="false">SCAN QR CODE PRINTED ON THE BACK OF YOUR DEVICE</string>
+    <string name="create_hotspot" translatable="false"><u>CREATE HOTSPOT</u></string>
+    <string name="start" translatable="false">START</string>
+    <string name="resend_otp_text">Did not get email?\n<u>Resend code to xyz</u></string>
+
+    <!-- Voice Assistant String -->
+
+    <string name="how_to_link_title_text">How To Link Google Assistant</string>
+    <string name="how_to_link_sub_title_text">Download and install the Google Home App</string>
+    <string name="smart_home_image_text_title">Google Home</string>
+    <string name="smart_home_image_text_sub_title">Google LLC</string>
+    <string name="smart_home_image_text_title_alexa">Amazon Alexa</string>
+    <string name="smart_home_image_text_sub_title_alexa">AMZN Mobile LLC</string>
+    <string name="oakter_smart_home_text_title">Oakter Smart Home</string>
+    <string name="oakter_smart_home_text_sub_title">by Oakter</string>
+    <string name="where_to_add_text"><![CDATA[Add the Oakter Smart Home Action in the <b>xyz</b> section of abc.]]></string>
+    <string name="credentials_for_text_title">Credentials for Google Assistant</string>
+    <string name="demo_string">You can change the name of your Switch to something unique, like <b>Bedroom Light, Night Lamp</b> etc to remember them easily and for easy voice control. \nIf you have already linked your account to Alexa or Google Assistant, you need to say - \n\n<b>“Alexa, discover devices”</b>\nor\n<b>“Hey Google, Sync my devices”</b> \n\n- before you stat using your new name with Alexa or Google Assistant</string>
+
+
+</resources>

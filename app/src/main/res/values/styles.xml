@@ -1,0 +1,95 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="heading_text_style" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/heading_text_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="sub_heading_text_style" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/sub_heading_text_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="button_style" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textSize">15sp</item>
+        <item name="android:background">@drawable/orange_button_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_color</item>
+    </style>
+
+    <style name="button_style_without_orange_background_text_orange" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/theme_color</item>
+    </style>
+
+    <style name="below_main_content_text" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/btn_disable</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="custom_progress_bar" parent="@style/Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:progressBackgroundTint">@color/theme_color</item>
+        <item name="android:progressTint">@color/theme_color</item>
+        <item name="android:minWidth">@dimen/_10ROR</item>
+    </style>
+
+    <style name="edit_text_box" parent="@android:style/Widget.EditText">
+        <item name="android:fontFamily">@font/roboto_light</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="key_text_style" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/sub_heading_text_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="value_text_style" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/heading_text_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="disabled_button_style" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textSize">15sp</item>
+        <item name="android:background">@drawable/disabled_button_drawable</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_color</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="list_background">#303030</color>
+    <!-- <color name="list_background_pressed">#992416</color> -->
+    <color name="list_background_pressed">#A2A2A2</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_bg_selected">#3e626262</color>
+    <color name="white_color">#ffffff</color>
+    <color name="button_text_color">#ffffff</color>
+    <color name="remote_gray">#787878</color>
+    <color name="stroke">#D6D6D6</color>
+
+
+    <!-- Crop Image Colors -->
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="lock_color">#FF737372</color>
+    <color name="menu_divider">#FFB3B3B3</color>
+
+
+    <color name="banner_color_selected">#3d444444</color>
+    <color name="tab_selected">#00000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="black_color">#000000</color>
+    <color name="black_color_clicked_90">#90000000</color>
+    <color name="black_color_clicked_70">#70000000</color>
+    <color name="arc_color">#D3D3D3</color>
+    <color name="arc_color_2">#BEBEBE</color>
+
+
+    <!--**********************For U-CONTROL*******************-->
+    <!--<color name="theme_color">#81194E</color>-->
+    <!--<color name="selected">#3381194E</color>-->
+    <!--<color name="sliding_tab">#81194E</color>-->
+    <!--<color name="banner_color">#81194E</color>-->
+    <!--****************************************************-->
+    <!--**********************For Foxport*******************-->
+    <!--<color name="theme_color">#95a843</color>-->
+    <!--<color name="selected">#3395a843</color>-->
+    <!--<color name="sliding_tab">#acbe5b</color>-->
+    <!--<color name="banner_color">#95a843</color>-->
+    <!--****************************************************-->
+    <color name="gray">#707a75</color>
+
+    <color name="tab_color">#F2994A</color>
+    <color name="tab_divider">#B5B5B5</color>
+
+    <!--*************For Oakter****************************-->
+    <color name="theme_color">#FF6600</color>
+    <color name="selected">#33FF6600</color>
+    <color name="banner_color">#444444</color>
+    <color name="sliding_tab">#ff9c00</color>
+    ****************************************************
+
+    <color name="app_banner_gray_color">#444444</color>
+    <color name="light_gray">#f1f1f1</color>
+    <color name="progress_gray">#9e9f9f</color>
+    <color name="blue_pressed">#ff0099cc</color>
+    <color name="btn_disable">#b2b3b3</color>
+    <color name="wifi_screen_label_color">#5c5c5c</color>
+    <color name="firmware_label_color">#FF444343</color>
+    <color name="wifiheading">#5B5B5B</color>
+    <color name="allowded_home_scree">#565655</color>
+    <color name="color_spinner_zmote">#C4C4C4</color>
+    <color name="down_spinner">#575757</color>
+    <color name="lite_gray">#F2F2F2</color>
+    <color name="blue">#FF1784C7</color>
+
+    <!--date time picker-->
+
+    <color name="mdtp_white">#ffffff</color>
+    <color name="mdtp_background_color">@color/mdtp_white</color>
+    <color name="mdtp_circle_background">@color/mdtp_background_color</color>
+    <color name="mdtp_circle_color">#f5f5f5</color>
+    <color name="mdtp_line_background">#cccccc</color>
+    <color name="mdtp_ampm_text_color">@color/mdtp_numbers_text_color</color>
+    <color name="mdtp_done_text_color_normal">#ff212121</color>
+    <color name="mdtp_done_text_color_disabled">#cccccc</color>
+    <color name="mdtp_numbers_text_color">#ff212121</color>
+
+    <color name="mdtp_transparent_black">#7f000000</color>
+    <color name="mdtp_accent_color">#009688</color>
+    <color name="mdtp_accent_color_focused">#76ffffff</color>
+    <color name="mdtp_neutral_pressed">#33999999</color>
+    <color name="mdtp_accent_color_dark">#00796b</color>
+    <color name="mdtp_date_picker_text_normal">#ff212121</color>
+    <color name="mdtp_date_picker_text_highlighted">@color/mdtp_date_picker_text_normal</color>
+    <color name="mdtp_date_picker_text_disabled">#ccc</color>
+    <color name="mdtp_date_picker_month_day">#767676</color>
+
+    <!-- DatePicker Dark Theme -->
+    <color name="mdtp_date_picker_view_animator_dark_theme">@color/mdtp_light_gray</color>
+    <color name="mdtp_date_picker_text_normal_dark_theme">@color/mdtp_white</color>
+    <color name="mdtp_date_picker_month_day_dark_theme">#b4b4b4</color>
+    <color name="mdtp_date_picker_text_disabled_dark_theme">#767676</color>
+    <color name="mdtp_date_picker_text_highlighted_dark_theme">
+        @color/mdtp_date_picker_text_normal_dark_theme
+    </color>
+
+    <color name="mdtp_calendar_header">@color/mdtp_accent_color_dark</color>
+    <color name="mdtp_date_picker_view_animator">@color/white_color</color>
+    <color name="mdtp_calendar_selected_date_text">#ffd1d2d4</color>
+
+    <color name="mdtp_button_color">@color/mdtp_accent_color</color>
+    <color name="mdtp_button_selected">#33969696</color>
+
+    <!-- TimePicker Dark Theme -->
+    <color name="mdtp_circle_background_dark_theme">#525252</color>
+
+    <!-- Colors for red theme -->
+    <color name="mdtp_red">@color/mdtp_accent_color</color>
+    <color name="mdtp_red_focused">@color/mdtp_accent_color_dark</color>
+    <color name="mdtp_light_gray">#424242</color>
+    <color name="mdtp_dark_gray">#323232</color>
+    <color name="mdtp_line_dark">#808080</color>
+    <color name="mdtp_done_text_color_dark_normal">#ffffff</color>
+    <color name="mdtp_done_text_color_dark_disabled">#888888</color>
+    <color name="mdtp_done_disabled_dark">#bfbfbf</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="black_transparent_30">#30000000</color>
+
+    <!--<color name="sign_up_color">#FFA12E</color>-->
+    <color name="grey">#606060</color>
+    <color name="wifi_sub_heading">#454545</color>
+    <color name="add_new_device">#e30211</color>
+    <color name="wifi_set_up">#FF1C1C1C</color>
+    <color name="error_gray">#6d6e71</color>
+    <color name="attach_warning">#ed151c</color>
+    <color name="noti_heading">#FF575756</color>
+    <color name="shipping_text1">#464646</color>
+    <color name="less_than_gray">#FF6D6E71</color>
+    <color name="gt_than_gray">#FF6D6E71</color>
+    <color name="noti_textview">#FF020202</color>
+    <color name="gray_off_sub_heading">#2c2b2b</color>
+    <color name="off_timer_hour">#FF9E9F9F</color>
+    <color name="off_timer_min">#9e9f9f</color>
+    <color name="schedule_text">#cfcfcf</color>
+    <color name="arc_text">#cfcfcf</color>
+    <color name="gray_div2">#dbdbdb</color>
+    <color name="dialog_color">#654321</color>
+    <color name="widget_back">#737373</color>
+    <color name="address_back">#d6d6d6</color>
+    <color name="shadow">#20000000</color>
+    <color name="restart_back">#EBECEC</color>
+    <color name="noti_adapter_back">#FFE6E6E6</color>
+    <color name="gray_color">#999999</color>
+    <color name="schedule_color1">#2A2A2A</color>
+    <color name="home_adapter_name">#393939</color>
+    <color name="gray_1">#EDEDED</color>
+    <color name="channel_color">#B2B2B2</color>
+    <color name="blue_blink_text_color">#595959</color>
+    <color name="remote_color">#9D9D9D</color>
+    <color name="temp_color">#727272</color>
+
+    <color name="google_red">#d62d20</color>
+    <color name="google_blue">#0057e7</color>
+    <color name="google_green">#008744</color>
+    <color name="google_yellow">#ffa700</color>
+
+
+    <color name="heading_text_color">@color/black_color</color>
+    <color name="sub_heading_text_color">#FF505050</color>
+    <color name="tab_color_background">#DDDDDD</color>
+
+
+    <color name="disabled_color_button">#313131</color>
+
+
+
+</resources>
